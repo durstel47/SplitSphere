@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitSphere01_31.CSharp.Plugins", "SplitSphere01_31.CSharp.Plugins.csproj", "{D61EB6C0-9557-A2EB-9CE0-A2616F541D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitSphere01_31.CSharp", "SplitSphere01_31.CSharp.csproj", "{7BA3E8F0-DB2B-7CC4-4526-70E2181BF716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitSphere01_31.CSharp.Editor", "SplitSphere01_31.CSharp.Editor.csproj", "{D81CCCF0-381A-B5F2-31EC-98DB828CA501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61EB6C0-9557-A2EB-9CE0-A2616F541D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61EB6C0-9557-A2EB-9CE0-A2616F541D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61EB6C0-9557-A2EB-9CE0-A2616F541D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61EB6C0-9557-A2EB-9CE0-A2616F541D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BA3E8F0-DB2B-7CC4-4526-70E2181BF716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BA3E8F0-DB2B-7CC4-4526-70E2181BF716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BA3E8F0-DB2B-7CC4-4526-70E2181BF716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BA3E8F0-DB2B-7CC4-4526-70E2181BF716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81CCCF0-381A-B5F2-31EC-98DB828CA501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81CCCF0-381A-B5F2-31EC-98DB828CA501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81CCCF0-381A-B5F2-31EC-98DB828CA501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81CCCF0-381A-B5F2-31EC-98DB828CA501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
